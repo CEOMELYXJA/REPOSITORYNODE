@@ -1,0 +1,2 @@
+# REPOSITOYNODE
+NODE.wage
