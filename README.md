@@ -17,7 +17,6 @@ Alpa
 ## Code Block
 
 ```html
-<!-- core-block code inside root-hub repository -->
 ```
 
 ---
